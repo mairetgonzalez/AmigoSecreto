@@ -34,7 +34,7 @@ Demostración:
 Puedes ver la aplicación funcionando en el siguiente enlace 
 
 Acceso al proyecto
-Repositorio: [https://github.com/mairetgonzalez/Curso_Alura/amigo-secreto](https://mairetgonzalez.github.io/AmigoSecreto/)
+Repositorio: https://mairetgonzalez.github.io/AmigoSecreto/
 Instalación local: Descarga o clona el repositorio y abre el archivo index.html en tu navegador para usar la aplicación.
 
 Tecnologías utilizadas
